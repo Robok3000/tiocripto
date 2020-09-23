@@ -3,6 +3,7 @@ title: ¿Qué es el dinero?
 tags: [Definición]
 style: fill
 color: danger
+image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
 description: Aprende sobre el dinero como si estuvieras jugando La Gran Ciudad.
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: ¿Qué son las criptomonedas?
+image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
 tags: [Criptomonedas, Tecnología, Definición]
-style:
-color:
+style: false
+color: false
 description: ¡Las criptomonedas son la cumbia!
 ---
 
