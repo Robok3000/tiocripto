@@ -1,7 +1,7 @@
 ### Site Settings ###
-title               : Tío Cripto
-description         : >-
-                     Finanzas explicadas con 🤓 memes y manzanas 🍎 - Administra tu dinero 💸 de manera rápida y sencilla, con la ayuda de verdaderos expertos en finanzas personales.
+title               : Tío Cripto - Educación Financiera para Todxs.
+description         : Finanzas explicadas con 🤓 memes y manzanas 🍎
+                    - Administra tu dinero 💸 de manera rápida y sencilla, con la ayuda de verdaderos expertos en finanzas personales.
 baseurl             : "/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : Robok3000/tiocripto     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
