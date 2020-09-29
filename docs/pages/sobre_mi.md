@@ -25,7 +25,7 @@ Si eres alguien que conoce de matemática aplicadas, finanzas, economía, astrol
 
 ## Donaciones + Links de Referidos y Afiliados
 
-Acepto donaciones en **Bitcoin** para mantener este sitio y de paso, alimentarme en estos tiempos de crisis. Puedes enviarlas a esta dirección:
+Acepto donaciones en **Bitcoin** para mantener este sitio y de paso, alimentarme en estos tiempos de crisis. Puedes enviarlas a esta dirección: 3AKiBXuaJHKPXqVmrgpUCApBCcEVYPANdD
 
 También te aconsejo que te tomes el tiempo y aprendas a usar:
 
