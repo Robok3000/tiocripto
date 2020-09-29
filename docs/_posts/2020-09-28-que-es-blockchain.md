@@ -6,11 +6,10 @@ color: warning
 description: ¿Escuchaste sobre Blockchain y no sabes qué es? Bueno, aquí te lo explicamos en simple.
 ---
 
-Source: [Prosus.Money](http://wiki.prosus.money/doku.php/blockchain)
+Información obtenida de: [Prosus.Money](http://wiki.prosus.money/doku.php/blockchain)
 
 ![Blockchain meme](https://i.imgflip.com/23doui.jpg)
 
-![Cómo puedo ahorrar](https://media1.tenor.com/images/b52311a5022be368e43ae7e985105aa9/tenor.gif?itemid=11664312)
 
 ## ¿Qué es?
 
