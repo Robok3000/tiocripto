@@ -33,11 +33,7 @@ También te aconsejo que te tomes el tiempo y aprendas a usar:
 - [Buda](https://buda.com/registro?rf=4FZE2XUQD) para comprar criptomonedas (Bitcoin, Ethereum, Bitcoin Cash o Litecoin). Es muy confiable y facil de ocupar.-
 - [Fintual](https://fintual.cl/r/pedrot18) para invertir inteligentemente en fondos mutuos. Lo aconsejo a ojos cerrados.
 
-No te cuesta nada y a mi me ayuda a seguir creando contenido en este y otros blogs como:
-
-- [Verynoise.com](https://verynoise.com): un blog especializado en música que busca difundir el trabajo de bandas y artistas independientes.
-- [Chowmi.net](https://chowmi.net): un nuevo medio periodístico libre de publicidad y 100% financiado por sus lectores.
-- [Trinomio.Digital](https://trinomio.digital): un laboratorio creativo especializado en redes sociales.
+No te cuesta nada y a mi me ayuda a seguir creando contenido en este y mis otros blogs.
 
 Y si aún no te convence donar. Bueno, no importa. Puedes ayudarme compartiendo el contenido de este blog.
 
