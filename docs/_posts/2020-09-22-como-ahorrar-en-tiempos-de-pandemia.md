@@ -8,6 +8,8 @@ description: Aquí van algunos tips para ahorrar en tiempos de crisis. Made in V
 
 Source: [Vice](https://www.vice.com/es_latam/article/3aze9w/como-administrar-dinero-en-una-economia-como-esta)
 
+![Ahorrar](https://imgur.com/oBXjqGa.jpeg)
+
 Quizás suene muy lejano para ti, que estás empezando a manejar tus primeros pesos, pero es importante que sepas que la vida en el futuro puede ser peor que lo que estamos viviendo hoy en día. Esta pandemia sin duda nos puso los pies en la tierra y nos mostró la fragilidad del sistema. De un momento a otro, una minúscula partícula destruyó nuestra realidad y nos hackeo la tranquilidad. Nadie lo vio venir y nadie estaba preparado. Bueno, ahora lo podemos estar. Estar listos para la próxima crisis, que sin duda vendrá como llegó ésta y como han llegado las miles de otras crisis a lo largo de la historia. Hay que estar preparados. Hay que empezar a ahorra. Y el escuadrón de Vice nos enseña cómo.
 
 ![Cómo puedo ahorrar](https://media1.tenor.com/images/b52311a5022be368e43ae7e985105aa9/tenor.gif?itemid=11664312)
