@@ -75,3 +75,6 @@ Recuerda, se paciente, toda inversión requiere de tiempo. Hay que esperar el re
 El tiempo está pasando rápido. La vida es inestable. Pero podemos usar todo esto a nuestro favor si nos mantenemos despiertos. No hay que ser un experto en matemáticas para lograr ahorrar. Solo necesitamos voluntad y ser sistemáticos. Eso es todo.
 
 Podemos seguir con nuestras vidas.
+
+*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
+![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)

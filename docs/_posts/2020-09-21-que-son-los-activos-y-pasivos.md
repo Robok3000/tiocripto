@@ -32,3 +32,6 @@ Generalmente pasa que, cuando una persona aumenta su ingresos, usualmente, tambi
 Para **Robert Kiyosaki**, la libertad financiera solo se logrará cuando los ingresos pasivos superan lo que gastamos.
 
 ![Dinero](https://thumbs.gfycat.com/PessimisticCarefulBoa-small.gif)
+
+*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
+![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)

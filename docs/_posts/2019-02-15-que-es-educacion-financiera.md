@@ -25,3 +25,7 @@ Los chiquillos de **Wikipedia** definen así:
 *Educación financiera es la capacidad de entender como funciona el dinero en el mundo: como una persona lo obtiene (gana), lo administra y lo invierte.Más específicamente, la educación financiera se refiere al conjunto de habilidades y conocimientos que permiten a un individuo tomar decisiones informadas de todos sus recursos financieros*
 
 ![Wikipedia](https://www.gifservice.fr/img/gif-vignette-small/ed7a5cdae98be3fd4f6ac50fed12f2d5/51622-multi-media-it-phone-hight-tech-photo-wikipedia.gif)
+
+
+*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
+![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)
