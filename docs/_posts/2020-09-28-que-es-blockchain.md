@@ -30,25 +30,25 @@ Supongamos que Pedro necesita mandarle algo a María, a través de la internet.
 
 ### Paso 2:
 
-Los datos de esta transacción se envían a una red *peer to peer* (como cuando descargas los juegos desde un torrent), donde los computadores se conocen como "nodos". La información no se guarda en un solo lugar y eso hace que el sistema sea **descentralizado**
+Los datos de esta transacción se envían a una red *peer to peer* (como cuando descargas los juegos desde un torrent), donde los computadores se conocen como "nodos". La información no se guarda en un solo lugar y eso hace que el sistema sea **descentralizado**. Entonces, lo que Pedro le manda a María, viaja a través de todos estos computadores que funcionan como nodos.
 
 ### Paso 3:
 
-Los bloques se construyen con múltiples transacciones que son viculados por "mineros" que, probando combinaciones, dan con la llave correcta para hacerlo. En la medida que Blockchain crece, es decir se nutre de más información, la "llave" se hace más compleja y se requiere un mayor esfuerzo (computacional) para encontrarla.
+Los bloques se construyen con múltiples transacciones que son viculados por "mineros" que, probando combinaciones, dan con la llave correcta para hacerlo. En la medida que Blockchain crece, es decir se nutre de más información, la "llave" se hace más compleja y se requiere un mayor esfuerzo (computacional) para encontrarla. Aquí se van guardando muchos envíos de muchas personas, incluido Pedro, que le está mandando algo a María.
 
 ### Paso 4:
 
-Otros mineros validan la transacción.
+Otros mineros validan la transacción. Entonces aceptan que lo que está mandando Pedro es válido.
 
 ![Minería Bitcoin](https://i.blogs.es/6c809e/btc1/450_1000.jpg)
 
 ### Paso 5:
 
-El bloque es añadido a la cadena y es visible para todos de manera permamente en el registro.
+El bloque es añadido a la cadena y es visible para todos de manera permamente en el registro. Entonces, aquí se registran todos los datos del envío que hizo Pedro: la hora, el día, el remitente, el contenido, etc.
 
 ### Paso 6
 
-La transacción es recibida por B.
+La transacción es recibida por María. María se siente feliz.
 
 ## ¿Qué conforma la Cadena de Bloques?
 
