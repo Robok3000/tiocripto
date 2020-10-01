@@ -49,9 +49,9 @@ El modelo 50-30-20 funciona así:
 Ya estamos en el 2020 y hay muchos robots dando vueltas, organizándole la vida a los seres humanos. Estos robots los conocemos con el nombre de aplicaciones. Existen muchas aplicaciones que te permiten organizar tu dinero. Aquí te dejo algunas:
 
 - [Fintual](https://fintual.cl/r/pedrot18)
-- [Tempo](https://tenpo.cl/)
+- [Tenpo](https://tenpo.cl/)
 - [Fintonic](https://www.fintonic.cl/es-CL/inicio/)
-- [Wallet]
+
 
 Estas aplicaciones nos ayudan a ahorrar, sacando una parte de tu sueldo para destinarlo a una cuenta que no puedas tocar. Y si quieres que esos ahorros tengan algún tipo de movimiento, una buena opción es [Fintual](https://fintual.cl/r/pedrot18), que envía tu dinero a fondos de inversion para generar rendimiento automático.
 
