@@ -44,7 +44,7 @@ El modelo 50-30-20 funciona así:
 
 ![aprendiendo a ahorrar](https://3.bp.blogspot.com/-YIzVGr7as3A/V47q_QnCTdI/AAAAAAAAAOE/Rxo5lFAqD6Q1nbI9OTiV2gP0UDuxqitVACLcB/s1600/giphy3.gif)
 
-## Automatiza tu ahorro 🤖
+## Paso 4: Automatiza tu ahorro 🤖
 
 Ya estamos en el 2020 y hay muchos robots dando vueltas, organizándole la vida a los seres humanos. Estos robots los conocemos con el nombre de aplicaciones. Existen muchas aplicaciones que te permiten organizar tu dinero. Aquí te dejo algunas:
 
@@ -56,17 +56,17 @@ Ya estamos en el 2020 y hay muchos robots dando vueltas, organizándole la vida 
 Estas aplicaciones nos ayudan a ahorrar, sacando una parte de tu sueldo para destinarlo a una cuenta que no puedas tocar. Y si quieres que esos ahorros tengan algún tipo de movimiento, una buena opción es [Fintual](https://fintual.cl/r/pedrot18), que envía tu dinero a fondos de inversion para generar rendimiento automático.
 
 
-## Preocúpate del futuro ahora ya! 🧐
+## Paso 5: Preocúpate del futuro ahora ya! 🧐
 
 Como ya dije, es importante que te prepares para el futuro. Para ello, crea un fondo de emergencia que te ayude a cubrir tus gastos en caso de que te quedes sin trabajo. Y segundo, no confiar en las AFPs ni en lo que recibirás en tu jubilación. Arma un plan para cuando seas viejo. Un APV es una excelente opción. Y en [Fintual](https://fintual.cl/r/pedrot18) tienen la opción de elegir como objetivo el crear una APV (si tienes dudas puedes preguntarles a ellos, son simpáticos y explican súper bien)
 
 ![futuro](https://media1.tenor.com/images/66f824c986934770fd93154566ec068f/tenor.gif?itemid=8527740)
 
-## Usa lo que tienes con  🧠
+## Paso 6: Usa lo que tienes con  🧠
 
 Saber usar tus instrumentos bancarios es clave para el ahorro. Hay quienes saben manejar a la perfección su tarjeta de crédito, la cual utilizan para pagar todo lo que puedan para así asegurar puntos o millas que luego puedes cambiar por viajes a la playa o por alguna cosa que te ayude en la casa. Tienes que mantenerte informado sobre estas opciones.
 
-## Espera antes de crecer 👶
+## Paso 7: Espera antes de crecer 👶
 
 Piensa antes de invertir tu dinero. La paciencia es la clave de todo negocio. Hay quienes se pueden ver motivados a comprar bitcoin porque alguien te comentó que es la oportunidad de la vida, o que las acciones de Tesla es la mano. Primero, respira, luego infórmate. Si quieres saber de criptomonedas, puedes pedir información en Buda o en la ONG Bitcoin Chile. Si quieres invertir en acciones, puedes preguntarle a la gente de Bexf. Todos estarán felices de asesorarte.
 
