@@ -2,12 +2,12 @@
 title: ¿Cómo puedo reducir mis gastos?
 tags: [Finanzas, consejos]
 style: fill
-color: warning
+color: danger
 description: Acá van 7 consejos para reducir tus gastos y llegar con plata a fin de mes.
 ---
 
 
-!(Gastos Personales)[https://imgur.com/AGNMbWt.png]
+![Gastos Personales](https://imgur.com/AGNMbWt.png)
 
 Información obtenida de: [Agustín B. Bernia Romero](https://www.linkedin.com/pulse/7-consejos-para-reducir-gastos-sin-dolor-agust%C3%ADn-b-bernia-romero/)
 
@@ -24,7 +24,7 @@ Como dice Agustín Bernia: "*deja de pensar en el por si acaso, si en un futuro 
 
 ¿Claro?
 
-!(Buena idea)[https://media2.giphy.com/media/l0ErQJblvX9EWNQCA/giphy.gif]
+![Buena idea](https://media2.giphy.com/media/l0ErQJblvX9EWNQCA/giphy.gif)
 
 ## Consejo 3: Sé ingenioso y busca soluciones creativas 🧠
 
@@ -39,7 +39,7 @@ La forma de resistir, es retrasando esa compra 15 días. Anota en alguna parte e
 
 Listo.
 
-!(Check)[https://media1.giphy.com/media/KbvZsN07K9Hy9ZoyR7/giphy.gif]
+![Check](https://media1.giphy.com/media/KbvZsN07K9Hy9ZoyR7/giphy.gif)
 
 ## Consejo 5: Cambia el dinero por horas de trabajo ⏱
 
@@ -64,7 +64,7 @@ Si tienes claro los objetivos que quieres conseguir, el reducir los gastos se te
 
 ¿Crees que existen otros pasos que deberían ser agregados a esta lista? puedes escribirme a hola@tiocripto.com
 
-!(Buena idea)[https://thumbs.gfycat.com/KeenUnequaledDungbeetle-size_restricted.gif]
+![Buena idea](https://thumbs.gfycat.com/KeenUnequaledDungbeetle-size_restricted.gif)
 
 
 *Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
