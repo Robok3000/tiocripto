@@ -1,10 +1,12 @@
 ---
-title: ¿Qué es Educación Financiera?
+title: ¿Qué es la Educación Financiera?
 tags: [Definición, Educacion Financiera]
 style: border
 color: primary
 description: Una rápida introducción sobre Educación Financiera.
 ---
+
+![Educación Financiera](https://imgur.com/SEtI0tJ.png)
 
 Según la OCDE la Educación Financiera es la capacidad de saber gastar bien el dinero para que tengamos una vida tranquila y serena, es decir, no gastarse la plata en cualquier cosa, porque esa cualquier cosa es lo que hace que las personas no puedan vivir tranquilamente, debido a que compran tantas “cualquier cosa” que a veces excedemos el dinero que tenemos y comenzamos a arrastrar deudas que al final nos presionan y nos obligan a vivir una vida intranquila. ¿Se entiende?
 
@@ -25,6 +27,8 @@ Los chiquillos de **Wikipedia** definen así:
 *Educación financiera es la capacidad de entender como funciona el dinero en el mundo: como una persona lo obtiene (gana), lo administra y lo invierte.Más específicamente, la educación financiera se refiere al conjunto de habilidades y conocimientos que permiten a un individuo tomar decisiones informadas de todos sus recursos financieros*
 
 ![Wikipedia](https://www.gifservice.fr/img/gif-vignette-small/ed7a5cdae98be3fd4f6ac50fed12f2d5/51622-multi-media-it-phone-hight-tech-photo-wikipedia.gif)
+
+{% include elements/video.html id="ALlSherR2ss" %}
 
 
 *Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
