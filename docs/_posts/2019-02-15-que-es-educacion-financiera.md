@@ -8,6 +8,8 @@ description: Una rápida introducción sobre Educación Financiera.
 
 ![Educación Financiera](https://imgur.com/SEtI0tJ.png)
 
+Sin duda, este es un término que debiese ser enseñado en los colegios para que se entienda como funciona el dinero o cómo sacar el máximo provecho de tus ingresos. Es un tema muy desconocido, pero que lentamente se está volviendo más popular gracias a los buenos samaritanos de la internet.
+
 Según la OCDE la Educación Financiera es la capacidad de saber gastar bien el dinero para que tengamos una vida tranquila y serena, es decir, no gastarse la plata en cualquier cosa, porque esa cualquier cosa es lo que hace que las personas no puedan vivir tranquilamente, debido a que compran tantas “cualquier cosa” que a veces excedemos el dinero que tenemos y comenzamos a arrastrar deudas que al final nos presionan y nos obligan a vivir una vida intranquila. ¿Se entiende?
 
 ![no entiendí](https://thumbs.gfycat.com/CraftyElementaryFlamingo-size_restricted.gif)
@@ -28,7 +30,24 @@ Los chiquillos de **Wikipedia** definen así:
 
 ![Wikipedia](https://www.gifservice.fr/img/gif-vignette-small/ed7a5cdae98be3fd4f6ac50fed12f2d5/51622-multi-media-it-phone-hight-tech-photo-wikipedia.gif)
 
+Para que quede más claro, te dejo este increíble video que lo explica muy bien:
+
 {% include elements/video.html id="ALlSherR2ss" %}
+
+Tener conocimientos sobre Educación Financiera, te permite entender mejor los complejos servicios financieros que están apareciendo hoy en día, y las diversas opciones para invertir que se están volviendo cada vez más populares.
+
+El gran reto de la Educación Financiera es la de cambiar los hábitos de las personas, que esos hábitos se adapten en las familias y en los grupos de amigos y así, hasta que toda la sociedad cambie.
+
+Como resumen, lo más importante es:
+
+- Ser consciente de tus ingresos. Saber hasta donde llega tu poder adquisitivo. No es necesario aparentar que se tiene más.
+- Siempre tener metas y una estrategia para alcanzarla.
+- Saber priorizar entre los tipos de gastos.
+- Estudiar la manera de recibir ingresos pasivos
+- Informarse lo mejor posible ante de invertir en cualquier cosa. Siempre debes barajar distintas posibilidades y quedarte con el más conveniente.
+- Y desde ya, piensa en un plan para que tengas dinero cuando llegues a la tercera edad. Un plan de ahorro, un APV, cualquier cosa que ayude a tu yo viejito del futuro.
+
+Teniendo esto claro desde un principio, verás cómo la vida se te ordena. Empezarás a entender de qué se trata esto que todos llaman dinero. Si quieres saber más sobre el dinero, te invito a leer este post que escribí con mucho amor: [¿Que es el Dinero?](https://www.tiocripto.com/blog/que-es-el-dinero)
 
 
 *Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
