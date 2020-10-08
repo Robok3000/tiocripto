@@ -19,7 +19,8 @@ Ahora podemos preguntar:
 
 ### ¿Para qué sirve el dinero?
 
-![Dinero](https://www.huevadas.net/hacer/memes-y-graficos/uploads/memes/Oct2015/hrhu.jpg)
+{% include elements/video.html id="jhFMzsSpSsk" %}
+
 
 Esta es una excelente pregunta Guru Guru, que se puede contestar así:
 
@@ -38,6 +39,8 @@ Pero este sistema de trueques, comenzó a verse truncado, ya que los diferentes 
 
 **Qué permitió esto**. Un salto cuántico en la humanidad. Esta nueva forma de dinero, comenzó a conectar a personas de distintos países. Todos estaban jugando bajo las mismas reglas y esto permitió que el comercio creciera y se organizara, expandiéndose alrededor de todo el mundo.
 
+![Dinero](https://www.huevadas.net/hacer/memes-y-graficos/uploads/memes/Oct2015/hrhu.jpg)
+
 Pero todo lo bueno tiene su lado negativo. Y esto es lo que pasó con el oro. El oro es un metal muy pesado por lo cual cuando necesitabas hacer una compra que equivalía a mil toneladas de oro, se requería un esfuerzo gigante para transportarlo. Además era muy peligroso, ya que podías perder parte de tus riquezas en el camino. Entonces, gente muy sabia comenzó a proteger y resguardar este oro en sus casas. Entonces, si yo tenía oro pero no quería guardarlo debajo del colchón, iba donde estas familias y pedía que me resguardaran el oro. A cambio, ellos entregaban un papel que certificaba que yo era el dueño de ese oro y que podía entregar este papel a otro como forma de pago y es e otro se convertiría en el dueño de ese oro. Así nacieron los primeros billetes.
 
 La comodidad de este nuevo formato del dinero, ligero y fácil de transportar, permitió que las personas nuevamente se conectaran y comenzaran a negociar con estos billetes, ya que les permitía hacer transacciones más rápidas y seguras. Los que se cuestionaban que el oro a hora fuera un papel, dejaron de hacerlo luego que todo el mundo usara los billetes. Entonces todos los países comenzaron a tener sus propios billetes, con diseños muy bonitos y todos respaldados en el oro.
@@ -55,7 +58,7 @@ Para finalizar, la idea es la siguiente: el dinero ha tenido diferentes formas: 
 Para mi, la respuesta es **Bitcoin**. Esta poderosa criptomoneda tiene todas las características necesarias para convertirse en las próxima forma del dinero.
 
 [¿Quieres saber qué es una criptomoneda?](https://www.tiocripto.com/blog/que-son-las-criptomonedas) 👈 ingresa a este post.
-[¿Quieres saber por qué Bitcoin es tan pulento?](https://www.tiocripto.com/blog/que-es-bitcoin) 👈 ingresa a este post. 
+[¿Quieres saber por qué Bitcoin es tan pulento?](https://www.tiocripto.com/blog/que-es-bitcoin) 👈 ingresa a este post.
 
 *Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
 ![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)
