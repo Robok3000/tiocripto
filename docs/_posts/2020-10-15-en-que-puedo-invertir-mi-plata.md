@@ -1,5 +1,5 @@
 ---
-title: ¿En qué puedo invertir mi dinero?
+title: ¿En qué puedo invertir mi plata?
 tags: [Finanzas, Finanzas Personales, Libertad Financiera]
 style: fill
 color: danger
