@@ -68,7 +68,9 @@ Así es como la promociona AFP Habitat: "*La Cuenta 2 o Cuenta de Ahorro Volunta
 
 *Esta cuenta de ahorro la puedes contratar en AFP Habitat de forma voluntaria y te permite disponer rápidamente de tus ahorros si los necesitas. En AFP Habitat, tu Cuenta 2 tiene una comisión de: 0,95% anual sobre el saldo administrado.*"
 
-Esta es una excelente opción que no requiere tanto estudio, sólo debes elegir la que te ofrece la comisión más baja. Aunque, siempre es bueno estudiar todo lo que uno hace, esta opción es ideal para los flojos.
+Esta es una excelente opción que no requiere tanto estudio, sólo debes elegir la que te ofrece la comisión más baja. Aunque, siempre es bueno estudiar todo lo que uno hace, esta opción es ideal para los flojos
+
+![Cuenta 2](https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/OI7WIZAY6NDH7AQHHZ2NLXTCX4.jpg)
 
 ## 6: Renta Inmobilaria
 
@@ -78,7 +80,7 @@ Es como tener un departamento y arrendarlo, pero sin tener que lidiar con todo l
 
 Hay algunas opciones en la que puedes partir con un millón de pesos. Como en todo, debes investigar para no caer en alguna estafa.
 
-[money](https://fazewp-fazemediainc.netdna-ssl.com/cms/wp-content/uploads/2015/06/counting-money-gif-3.gif)
+![money](https://fazewp-fazemediainc.netdna-ssl.com/cms/wp-content/uploads/2015/06/counting-money-gif-3.gif)
 
 ## 7: ETFs
 
