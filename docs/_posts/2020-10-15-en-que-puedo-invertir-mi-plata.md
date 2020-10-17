@@ -17,7 +17,7 @@ Si eres alguien que no tiene experiencia ni conocimientos en inversiones pero sa
 Antes de comenzar, debo recordarte dos cosas:
 
 - ¿Para qué quieres invertir? ¿Cuál es tu objetivo detrás de esto? Tener una meta clara te ayudará a administrar mejor tu dinero.
-- Para cada unas de estas recomendaciones debes informarte siempre. Tu dinero es algo que debes cuidar bien y no debes tomar las inversiones a la ligera. Estudia cada opción y toma la decisión a consciencia.
+- Para cada unas de las siguientes recomendaciones debes informarte siempre. Tu dinero es algo que debes cuidar bien y no debes tomar las inversiones a la ligera. Estudia cada opción y toma la decisión a consciencia.
 
 Ahora vamos a los nuestros. Síganme los buenos...
 
@@ -42,21 +42,21 @@ Tomando estas consideraciones, es posible que logres rentar con tu inversión, m
 
 ## 2: Depósito a Plazo
 
-Esto es lo más fácil de hacer, pedirle a tu banco que te abra un depósito a plazo y esperar a que en un año ganes un 2% aproximado. Esto sirve para proyectos a corto o mediano plazo de nomás de 6 meses. Más que eso, no rentarás mucho más y existen otras opciones que veremos a continuación.
+Esto es lo más fácil de hacer, pedirle a tu banco que te abra un depósito a plazo y esperar a que en un año ganes un 2% aproximado. Esto sirve para proyectos a corto o mediano plazo de nomás de 6 meses. Más de 6 meses, no rentarás mucho más y existen otras opciones que veremos a continuación.
 
 
 ## 3: Fondos mutuos
 
 Tal como lo dice Pedro Pineda: "*Un fondo mutuo es plata de mucha gente reunida (algo así como una vaca) para invertir en acciones e índices de forma diversificada. La administradora hace la pega “por mí y por todos mis compañeros” y arma un portafolio diversificado de acciones, ETF y cuotas de otros fondos.*"
 
-En este caso, lo importante es informarte sobre la administradora de fondos, ya que las comisiones varían y puede que elijas una que te cobre una comisión en la que salgas perdiendo. Hay distintas opciones y debes analizarlas todas o las que quieras analizar, pero debes comparar y saber dónde se está invirtiendo el dinero. No es lo mismo invertir e una administradora que te cobra un 6% anual a una que te cobra 0,1%. Así de diferentes son unas con otras.
+En este caso, lo importante es informarte sobre la administradora de fondos, ya que las comisiones varían y puede que elijas una que te cobre una comisión en la que salgas perdiendo. Hay distintas opciones y debes analizarlas todas, comparar y saber dónde se está invirtiendo el dinero que quieres invertir. No es lo mismo invertir e una administradora que te cobra un 6% anual a una que te cobra 0,1% y que invierte en Fondos Verdes. Así de diferentes son unas con otras.
 
 
 ## 4: APV
 
-Aquí te explicamos lo que es un [APV](https://www.tiocripto.com/blog/que-es-una-APV) y cómo es Estado te regala hasta 6UTM todos los años, si logras ahorrar el equivalente a $165.000 todos los meses. Si ahorras menos, el bono se ajusta proporcionalmente al monto ahorrado.
+Aquí te explicamos lo que es un [APV](https://www.tiocripto.com/blog/que-es-una-APV) y cómo el Estado te regala hasta 6UTM todos los años, si logras ahorrar el equivalente a $165.000 todos los meses. Si ahorras menos, el bono se ajusta proporcionalmente al monto ahorrado.
 
-Pero ojo! si sacas la plata del APV antes de que te jubiles, el estado te quita este beneficio y se lo tienes que devolver. Lo mejor es dejarlo ahí y tu yo viejito va a estar feliz con toda la plata que le habrá regalado el Estado.
+Pero ojo! si sacas la plata del APV antes de que te jubiles, el estado te quita este beneficio y se lo tienes que devolver. Lo mejor es dejarlo ahí y tu yo viejito del futuro va a estar feliz con toda la plata que le habrá regalado el Estado.
 
 ![viejitos](https://media1.tenor.com/images/51e9ab98bf024d65779e17d6819432eb/tenor.gif?itemid=9315430)
 
@@ -76,9 +76,9 @@ Esta es una excelente opción que no requiere tanto estudio, sólo debes elegir 
 
 Es igual a que recibieras plata por arrendar tus propiedades en Los Sims o en Minecraft. Cuando inviertes en Renta Inmobiliaria lo que estás haciendo es comprar una parte de una propiedad y sacar dividendos de ella (debes fijarte si son mensuales o trimestrales). Si la propiedad comienza a aumentar de valor, las acciones que adquiriste también aumentarán.
 
-Es como tener un departamento y arrendarlo, pero sin tener que lidiar con todo lo que conlleva arrendar un departamento: lidiar con personas, gastos, imprevistos, contribuciones, morosidades, etc...
+Es como tener un departamento y arrendarlo, pero sin tener que lidiar con todo lo que conlleva arrendar un departamento: arreglar la llave del baño, pagar contribuciones, morosidades de los inquilinos, etc...
 
-Hay algunas opciones en la que puedes partir con un millón de pesos. Como en todo, debes investigar para no caer en alguna estafa.
+Hay algunas opciones de Renta Inmobiliaria en la que puedes partir con un millón de pesos. Como en todo, debes investigar para no caer en alguna estafa.
 
 ![money](https://fazewp-fazemediainc.netdna-ssl.com/cms/wp-content/uploads/2015/06/counting-money-gif-3.gif)
 
@@ -92,7 +92,7 @@ Para más información puedes consultar en el [Banco Itaú](https://banco.itau.c
 
 Pineda lo explica así: "*Los bancos usan tu plata del depósito a plazo para prestársela a otras personas a una tasa más alta. Te pagan a ti un interés mínimo y se quedan con la diferencia. ¿Y si fuera uno el que directamente le prestara la plata a esa persona? Podría ganar más de lo que gano actualmente y la otra persona pagar menos por el préstamo.*"
 
-Existen empresas que se dedican a esto, como si fueran un banco pero con buenas intenciones. Le prestan tu plata a personas o empresas pero con tasas más bajas.
+Existen empresas que se dedican a esto, como si fueran un banco pero con buenas intenciones. Le prestan tu plata a personas o empresas pero con tasas más bajas y te devuelven una rentabilidad más alta.
 
 - [Cumplo](https://www.cumplo.cl/que-es-cumplo)
 - [Becual](https://www.becual.com/)
@@ -101,7 +101,9 @@ Existen empresas que se dedican a esto, como si fueran un banco pero con buenas 
 
 # Eso es todo amigos
 
-Espero que esta guía te sea de ayuda. Como siempre lo recalco: antes de invertir, estudia lo que estás a punto de hacer, compara, busca opciones, pregúntale a los expertos, a tu abuelito, convérsalo con tu almohada. Tu plata es sagrada y gastaste mucho tiempo en adquirirla, no la pierdas apostando a lo loco. Si lo haces conscientemente, podrías tener un nuevo ingreso que te permita estar más tranquilo a fin de mes. Que rico no, llegar a fin de mes y tener saldo positivo!.
+Espero que esta guía te sea de ayuda. Como siempre lo recalco antes de invertir: estudia lo que estás a punto de hacer, compara, busca opciones, pregúntale a los expertos, a tu abuelito, convérsalo con tu almohada. Tu plata es sagrada y gastaste mucho tiempo en adquirirla, no la pierdas apostando a lo loco. Si lo haces conscientemente, podrías tener un nuevo ingreso que te permita estar más tranquilo a fin de mes. Que rico no, llegar a fin de mes y tener saldo positivo!.
+
+![Van Damme Bailando](https://i.pinimg.com/originals/1e/66/42/1e66428dfe49b500df8567a9341724dd.gif)
 
 *Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
 ![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)
