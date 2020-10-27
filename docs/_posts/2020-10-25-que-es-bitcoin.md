@@ -2,7 +2,7 @@
 title: ¿Qué es Bitcoin?
 tags: [Finanzas, Criptomonedas, Tecnología]
 style: fill
-color: primary
+color: warning
 description: Aquí encontrarás la guía esencial para entender qué es Bitcoin
 ---
 
