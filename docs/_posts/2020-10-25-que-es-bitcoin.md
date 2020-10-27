@@ -8,7 +8,7 @@ description: Aquí encontrarás la guía esencial para entender qué es Bitcoin
 
 Source: [Buda.com](https://www.buda.com/guias/que-es-bitcoin/) & [ONG Bitcoin Chile](https://www.asociacionbitcoin.org/bitcoin-en-5-minutos/)
 
-![portada](https://imgur.com/RZmAbPm.jpg)
+![portada](https://imgur.com/JGICFE5.jpg)
 
 Si estás interesado en las criptomonedas, lo primero que te voy a recomendar es que te informes lo más posible, porque donde está el oro, están los estafadores. Es muy fácil caer en sus redes si no cuentas con algo de conocimientos. Aquí te dejaré algunas ideas para que tengas claro lo que es Bitcoin, para qué sirve y cómo se usa. Y al final, te diré como conseguirlo. Te advierto, que una vez conozcas las virtudes de Bitcoin, no podrás dejar de pensar en esta nueva evolución del [dinero.](https://www.tiocripto.com/blog/que-es-el-dinero)
 
