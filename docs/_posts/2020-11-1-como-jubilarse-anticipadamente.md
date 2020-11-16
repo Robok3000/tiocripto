@@ -3,7 +3,7 @@ title: ¿Cómo jubilarse anticipadamente?
 tags: [Finanzas, Tips, Jubilación]
 style: fill
 color: secondary
-description: Te quieres jubilar antes de los 40? aquí te explicamos cómo hacerlo.
+description: Te quieres jubilar antes de los 40? Aquí te explicamos cómo hacerlo.
 ---
 
 Source: [Vice.com](https://www.vice.com/es/article/gya8bx/fire-tecnica-ahorro-jubilarse-a-los-40)
@@ -22,6 +22,8 @@ Primero que todo, quiero explicar de qué se trata el método FIRE. Independenci
 
 ### Ahorrar a lo loco
 
+![loco](https://media1.giphy.com/media/y7Y3KGJ7l8KbK/200.gif)
+
 Lo primero que debes hacer es controlar tus gastos. Existen una infinidad de aplicaciones que te pueden servir para controlar tu dinero. En un post anterior (este) te mostramos algunas. También puedes usar un simple excel que puedes ir rellenando cada mes. La idea de esto es determinar que gastos podemos dejar de hacer y cuáles son los que podemos disminuir.
 
 La idea es ahorrar lo que más puedas. Siempre pensar en que si lo que estas comprando vale realmente la pena comprarlo. Generalmente nunca vale la pena, si nos volvemos unos extremistas del ahorro y unos minimalistas. Quizás lo mejor siempre es pensar que lo más importante es tener tiempo libre para disfrutar la vida.
@@ -31,6 +33,8 @@ Sabemos que en Chile los sueldos son bajos y que no queda mucho para el ahorro, 
 ### Llegó la hora de invertir
 
 Esta es la otra cara de la moneda. El Movimiento FIRE sugiere que lo más inteligente que se puede hacer luego de ahorrar al máximo, es invertir inteligentemente en arriendo de propiedades y en fondos de inversión. Aquí te recomendamos [Fintual](https://fintual.cl/r/pedrot18) para invertir en fondos mutuos sin que tengas que moverte del escritorio.
+
+![money 2](https://media2.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif)
 
 Link que te podrían interesar
 
