@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo jubilarse anticipadamente applicando el método FIRE?
+title: ¿Cómo jubilarse anticipadamente aplicando el método FIRE?
 tags: [Finanzas, Tips, Jubilación]
 style: fill
 color: secondary
@@ -10,21 +10,29 @@ Source: [Vice.com](https://www.vice.com/es/article/gya8bx/fire-tecnica-ahorro-ju
 
 ![portada](https://imgur.com/OTUe7hO.png)
 
-Unos de los grandes sueños de la vida es dejar de trabajar lo antes posible y vivir del fruto de todos los años de esfuerzo. Bueno, este sueño para algunos se ha hecho realidad gracias a los estudios realizado por el movimiento FIRE (Financia Independence, Retire Early)
+Unos de los grandes sueños de la vida es dejar de trabajar lo antes posible y vivir del fruto de todos los años de esfuerzo. Bueno, este sueño para algunos se ha hecho realidad gracias a los estudios realizado por el movimiento FIRE (Financia Independence, Retire Early).
 
-# Cómo lograr jubilarse antes de los 40 años?
+# Es posible jubilarse antes de los 40 años?
 
 ## Qué es el Metodo FIRE
 
-Primero que todo, quiero explicar de qué se trata el método FIRE. Independencia Financiera, Jubilación Temprana (que es como se definiría el acrónimo) establece que la persona debe acumular capital a base de ahorrar todo lo que pueda y jubilarse lo antes posible para vivir de las rentas. Esto último es unas de las principales claves del movimiento FIRE: jubilarse lo antes posible. Tener tiempo libre para disfrutar de las cosas que más nos gustan y disfrutarlas con energía y tiempo.
+Primero que todo, quiero explicar de qué se trata el método FIRE o Independencia Financiera, Jubilación Temprana (que es como se traduciría el acrónimo) establece que la persona debe acumular capital a base de ahorrar todo lo que pueda y jubilarse lo antes posible para vivir de las rentas. Esto último es unas de las principales claves del movimiento FIRE: jubilarse lo antes posible. Tener tiempo libre para disfrutar de las cosas que más nos gustan y disfrutarlas con energía y tiempo.
+
+Quizás lo antes posible no sean los 40, tomando en cuenta la realidad financiera en la que vivimos, en especial en Chile donde los sueldos y el costo de vida no están perfectamente alineados. Pero de todas formas, en algún momento nos tendremos que jubilar y debemos comenzar a preocuparnos de ese proceso ahora ya. Lo que plantea el Método FIRE es que lleguemos a ese momento antes de lo que dicta el sistema y lleguemos bien parados financieramente.
+
+Entonces...
 
 ## Cómo aplico el Método FIRE a mis finanzas personales
+
+Lo primero que hay que hacer es hacer mentalizarte, porque esto es un ejercicio que tendrás que hacer por años y que deberás seguir al pie de la letra, sin salirte de los límites que te impone este movimiento. Mientras más hardcore seas con tus ahorros, antes podrás jubilarte y dedicarte a lo que realmente te gusta. Pero, hay que sacrificar varios años de vida para lograrlo. Como consejo del **Tío Cripto**: "el tiempo pasa a una velocidad incomprensible y no te darás cuenta cuando tengas 40 años y agradecerás haber leído este artículo mientras miras lo que conseguiste siendo ordenado financieramente. Luke, no te dejes llevar por las ansias de comprar cosas, esas cosas van a desaparecer y te amarrarán por más tiempo a este miserable sistema..."
+
+![Método FIRE](https://64.media.tumblr.com/f6eb591106841c19e8b6d985960a17ce/tumblr_n0ozkxMyoi1qg10guo1_500.gif)
 
 ### ¿Cómo sé cuánto dinero es suficiente para jubilarme?
 
 Esta es una buena pregunta, porque en base a esta respuestas, irás trazando el plan de tu jubilación anticipada. Para lograr esto, la gente de [Esquire](https://www.esquire.com/es/trabajo/a19838446/jubilacion-anticipada-movimiento-fire/) nos sugiere lo siguiente:
 
-![formula](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fo-rmula-jubilacio-n-anticipada-1524051053.jpg?crop=1xw:1xh;center,top&resize=768:*)
+![formula Metodo FIRE](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fo-rmula-jubilacio-n-anticipada-1524051053.jpg?crop=1xw:1xh;center,top&resize=768:*)
 
 Lo que salga de esa fórmula sera el % que indica tu índice de libertad financiera. "*Si el resultado está próximo al 0%, significa que no tienes libertad financiera, es decir, no tienes apenas ahorros y tampoco tienes una fuente de ingresos pasivos, sino que, lo más probable, es que dependas de un salario. Por el contrario, si el resultado está entre el 0% y el 100%, es que estás camino de alcanzar la libertad financiera. Si tu resultado es próximo o igual al 100%, es que ya la has alcanzado*", explica Esmeralda Gómez, autora de Tu llave a la libertad financiera (Planeta 2018)
 
@@ -42,7 +50,7 @@ Sabemos que en Chile los sueldos son bajos y que no queda mucho para el ahorro, 
 
 ### Llegó la hora de invertir
 
-Esta es la otra cara de la moneda. El Movimiento FIRE sugiere que lo más inteligente que se puede hacer luego de ahorrar al máximo, es invertir inteligentemente en arriendo de propiedades y en fondos de inversión. Aquí te recomendamos [Fintual](https://fintual.cl/r/pedrot18) para invertir en fondos mutuos sin que tengas que moverte del escritorio. También podrías invertir en [Bitcoin](https://buda.com/registro?rf=4FZE2XUQD) o en alguna aplicación de inversión de inmuebles. Existen varias formas de invertir, investiga, estudia y pregunta todo lo que tengas que preguntar antes de invertir a lo loco. La idea es que ganes plata, no que la pierdas y se acabe de una la posibilidad de jubilarte lo antes posible.
+Esta es la otra cara de la moneda. El Movimiento FIRE sugiere que lo más inteligente que se puede hacer luego de ahorrar al máximo, es invertir inteligentemente en arriendo de propiedades y en fondos de inversión. Aquí te recomendamos [Fintual](https://fintual.cl/r/pedrot18) para invertir en fondos mutuos sin que tengas que moverte del escritorio. También podrías invertir en [Bitcoin](https://www.tiocripto.com/blog/que-es-bitcoin) o en alguna aplicación de inversión de inmuebles. Existen varias formas de [invertir](https://www.tiocripto.com/blog/en-que-puedo-invertir-mi-plata), investiga, estudia y pregunta todo lo que tengas que preguntar antes de invertir a lo loco. La idea es que ganes plata, no que la pierdas y se acabe de una la posibilidad de jubilarte lo antes posible.
 
 ![money 2](https://media2.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif)
 
