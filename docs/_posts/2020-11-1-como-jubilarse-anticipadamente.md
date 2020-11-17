@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo jubilarse anticipadamente?
+title: ¿Cómo jubilarse anticipadamente applicando el método FIRE?
 tags: [Finanzas, Tips, Jubilación]
 style: fill
 color: secondary
@@ -14,7 +14,7 @@ Unos de los grandes sueños de la vida es dejar de trabajar lo antes posible y v
 
 # Cómo lograr jubilarse antes de los 40 años?
 
-## Qué es el Método FIRE
+## Qué es el Metodo FIRE
 
 Primero que todo, quiero explicar de qué se trata el método FIRE. Independencia Financiera, Jubilación Temprana (que es como se definiría el acrónimo) establece que la persona debe acumular capital a base de ahorrar todo lo que pueda y jubilarse lo antes posible para vivir de las rentas. Esto último es unas de las principales claves del movimiento FIRE: jubilarse lo antes posible. Tener tiempo libre para disfrutar de las cosas que más nos gustan y disfrutarlas con energía y tiempo.
 
@@ -28,17 +28,17 @@ Esta es una buena pregunta, porque en base a esta respuestas, irás trazando el 
 
 Lo que salga de esa fórmula sera el % que indica tu índice de libertad financiera. "*Si el resultado está próximo al 0%, significa que no tienes libertad financiera, es decir, no tienes apenas ahorros y tampoco tienes una fuente de ingresos pasivos, sino que, lo más probable, es que dependas de un salario. Por el contrario, si el resultado está entre el 0% y el 100%, es que estás camino de alcanzar la libertad financiera. Si tu resultado es próximo o igual al 100%, es que ya la has alcanzado*", explica Esmeralda Gómez, autora de Tu llave a la libertad financiera (Planeta 2018)
 
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0789TZWMY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_WM6SFb6XJX9WP" ></iframe>
+<center><iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0789TZWMY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_WM6SFb6XJX9WP" ></iframe></center>
 
 ### Ahorrar a lo loco
-
-![loco](https://media1.giphy.com/media/y7Y3KGJ7l8KbK/200.gif)
 
 Lo primero que debes hacer es controlar tus gastos. Existen una infinidad de aplicaciones que te pueden servir para controlar tu dinero. En un post anterior (este) te mostramos algunas. También puedes usar un simple documento excel que puedes ir rellenando cada mes para determinar que gastos podemos dejar de hacer y cuáles son los que podemos disminuir.
 
 La idea es ahorrar lo que más puedas. Y nunca nunca nunca nunca tocar el dinero ahorrado. Siempre pensar en que si lo que estas comprando vale realmente la pena comprarlo. Generalmente nunca vale la pena, si nos volvemos unos extremistas del ahorro y unos minimalistas. Quizás lo mejor siempre es pensar que lo más importante es tener tiempo libre para disfrutar la vida.
 
 Sabemos que en Chile los sueldos son bajos y que no queda mucho para el ahorro, por eso, es tan importante dejar el consumo de lado y adquirir una nueva mentalidad, donde nos volvamos más conscientes sobre nuestras finanzas. Si dejamos de gastar en cosas innecesarias, verás como tu dinero va a comenzar a tomar otra forma. Hay que saber domar a este monstruo que llamamos dinero.
+
+![loco](https://media1.giphy.com/media/y7Y3KGJ7l8KbK/200.gif)
 
 ### Llegó la hora de invertir
 
@@ -66,6 +66,8 @@ Link que te podrían interesar:
 - [The Escape Artist](https://theescapeartist.me/)
 - [Esencialistas](https://www.esencialistas.com/)
 - [New York Post](https://nypost.com/2019/02/09/how-i-retired-at-38-and-you-can-too/)
+
+Aquí un video que muestra lo bueno y lo malo del Movimiento FIRE:
 
 {% include elements/video.html id="yu1huIDzPAM" %}
 
