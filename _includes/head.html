@@ -2,25 +2,16 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <!-- Primary Meta Tags -->
-  <title>Tío Cripto - Finanzas explicadas con memes y manzanas </title>
-  <link rel="shortcut icon" href="assets/favicon.png" type="image/pns" />
-  <meta name="title" content="Tío Cripto - Finanzas explicadas con memes y manzanas 🍎">
-  <meta name="description" content="Aprende a manejar tu dinero de forma rápida y sencilla.">
 
-  <!-- Open Graph / Facebook -->
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.tiocripto.com/">
-  <meta property="og:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}">
-  <meta property="og:description" content="{{ page.description | xml_escape }}">
-  <meta property="og:image" content="assets/image/portada.png">
-
-  <!-- Twitter -->
-  <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://www.tiocripto.com/">
-  <meta property="twitter:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}">
-  <meta property="twitter:description" content="{{ page.description | xml_escape }}">
-  <meta property="twitter:image" content="assets/image/portada.png">
+  <meta property="og:locale" content="{{ site.text.og_locale | default: "en_US" }}">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}">
+    <meta property="og:description" content="{{ page.description | xml_escape }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:site_name" content="{{ site.title | xml_escape }}">
+    {% if site.post_preview_image %}
+    <meta property="og:image" content="{{ site.url }}{{ page.featured_image }}">
+      {% endif %}
 
 
 
