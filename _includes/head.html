@@ -3,6 +3,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+
   <meta property="og:locale" content="{{ site.text.og_locale | default: "en_US" }}">
     <meta property="og:type" content="article">
     <meta property="og:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}">
@@ -10,7 +11,7 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.title | xml_escape }}">
     {% if site.post_preview_image %}
-    <meta property="og:image" content="{{ site.url }}{{ page.featured_image }}">
+    <meta property="og:image" content="{% if https://www.tiocripto.com/assets/portada.png}{% else %} {{ site.url }}{{ page.featured_image }}">
       {% endif %}
 
 
