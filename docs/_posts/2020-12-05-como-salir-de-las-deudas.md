@@ -1,8 +1,8 @@
 ---
 title: ¿Cómo puedo salir de mis deudas?
 tags: [Finanzas, Finanzas Personales, Libertad Financiera]
-style: fill
-color: danger
+style: border
+color: primary
 description: Esta es una pequeña guía que te ayudará a salir de tus deudas
 ---
 
