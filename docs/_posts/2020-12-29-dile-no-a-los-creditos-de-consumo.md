@@ -30,13 +30,41 @@ A simple viste parece el manso ni que ofertón. Pero no es así, ya que la letra
 
 ## ¿Para qué voy a pedir un crédito de consumo?
 
+Esta es unas de las preguntas más importantes, ya que podría salvarte de ese endeudamiento que no tenías presupuestado. Tienes que lograr distinguir si el crédito lo pedirás por un deseo o una necesidad. Es una necesidad, si lo que conseguirás con el crédito de consumo te ayudará a simplificar tu vida de alguna forma. Es un deseo, si puedes vivir perfectamente sin eso que necesitas. Debes saber priorizar tus gastos.
+
 ## ¿Tienes alguna otra forma de conseguir el dinero?
+
+No será mejor ahorrar hasta conseguir eso que tanto deseas. Quizás te tome mucho más tiempo, pero siempre es mejor pagar todo al contado que tirarle la responsabilidad a tu yo del futuro. A veces, ese yo del futuro puede sufrir un imprevisto y no le alcance para pagar la cuota del crédito... *Toc Toc... Vengo a cobrar la renta...*
 
 ## ¿Sabes cuánto es lo que realmente necesitas pedir?
 
+A veces uno cae en la tentación de pedir más de lo que uno realmente necesita, para darse ese gustito que desaparecerá al instante y te dejará una bonita deuda para el futuro. Mejor pensarlo muchas veces antes de sumarle más números a tu deuda.
+
 ## ¿Cuánto puedes pagar mes a mes?
 
+Hay una formula que nuestros amigos del Sernac explican muy bien:
+
+![guia](https://imgur.com/q9LPmrt.png)
+
 ## ¿Tienes capacidad de pago?
+
+Es decir, ¿tienes un trabajo asegurado que te permita pagar sagradamente, mes a mes, las cuotas que pactaste al momento de pedir el crédito?
+
+Buenos, ahora que respondiste estas preguntas y sigues con la idea de pedir un crédito de consumo, te aconsejo lo siguiente:
+
+### Cotiza en todos lados
+
+### Pide que los ejecutivos te digan claramente cuál es el costo total del crédito
+
+### Establece un valor de cuota mensual y compáralo
+
+### Busca el crédito con la CAE más baja
+
+### Resuelve todas tus dudas antes de firmar
+
+### Responsabilízate por el pagado
+
+### No te atrases con los pagos...
 
 *Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
 ![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)
