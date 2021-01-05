@@ -48,7 +48,3 @@ Como resumen, lo más importante es:
 - Y desde ya, piensa en un plan para que tengas dinero cuando llegues a la tercera edad. Un plan de ahorro, un APV, cualquier cosa que ayude a tu yo viejito del futuro.
 
 Teniendo esto claro desde un principio, verás cómo la vida se te ordena. Empezarás a entender de qué se trata esto que todos llaman dinero. Si quieres saber más sobre el dinero, te invito a leer este post que escribí con mucho amor: [¿Que es el Dinero?](https://www.tiocripto.com/blog/que-es-el-dinero)
-
-
-*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
-![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)

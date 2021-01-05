@@ -69,7 +69,3 @@ Otra habilidad desbloqueada: Ahorrar. Si quieres más consejos para ahorrar, mir
 ¿Crees que existen otros pasos que deberían ser agregados a esta lista? puedes escribirme a hola@tiocripto.com
 
 ![Buena idea](https://thumbs.gfycat.com/KeenUnequaledDungbeetle-size_restricted.gif)
-
-
-*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
-![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)

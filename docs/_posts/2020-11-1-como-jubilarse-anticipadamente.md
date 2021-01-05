@@ -78,6 +78,3 @@ Link que te podrían interesar:
 Aquí un video que muestra lo bueno y lo malo del Movimiento FIRE:
 
 {% include elements/video.html id="yu1huIDzPAM" %}
-
-*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
-![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)

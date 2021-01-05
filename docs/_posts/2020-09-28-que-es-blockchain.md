@@ -101,6 +101,3 @@ Sin tener que depender de un banco o un notario, esta tecnología ya es utilizad
 ### Registros de estados de los alimentos.
 
 Tener un registro de la cadena de proceso de los alimentos que consumimos. Con Blockchain se puede tener un detalle de todos los pasos por los que ha pasado un alimento. Por ejemplo, se puede llevar el registro de la extracción de una manzana, transporte, almacenamiento, y la cantidad de días desde ese proceso. Así, podríamos revisar la procedencia y el estado de cada comida.
-
-*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
-![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)

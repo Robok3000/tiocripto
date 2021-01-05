@@ -52,19 +52,16 @@ Es decir, ¿tienes un trabajo asegurado que te permita pagar sagradamente, mes a
 
 Buenos, ahora que respondiste estas preguntas y sigues con la idea de pedir un crédito de consumo, te aconsejo lo siguiente:
 
-### Cotiza en todos lados
+#### Cotiza en todos lados
 
-### Pide que los ejecutivos te digan claramente cuál es el costo total del crédito
+#### Pide que los ejecutivos te digan claramente cuál es el costo total del crédito
 
-### Establece un valor de cuota mensual y compáralo
+#### Establece un valor de cuota mensual y compáralo
 
-### Busca el crédito con la CAE más baja
+#### Busca el crédito con la CAE más baja
 
-### Resuelve todas tus dudas antes de firmar
+#### Resuelve todas tus dudas antes de firmar
 
-### Responsabilízate por el pagado
+#### Responsabilízate por el pagado
 
-### No te atrases con los pagos...
-
-*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
-![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)
+#### No te atrases con los pagos...

@@ -59,6 +59,3 @@ Para mi, la respuesta es **Bitcoin**. Esta poderosa criptomoneda tiene todas las
 
 [¿Quieres saber qué es una criptomoneda?](https://www.tiocripto.com/blog/que-son-las-criptomonedas) 👈 ingresa a este post.
 [¿Quieres saber por qué Bitcoin es tan pulento?](https://www.tiocripto.com/blog/que-es-bitcoin) 👈 ingresa a este post.
-
-*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
-![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)

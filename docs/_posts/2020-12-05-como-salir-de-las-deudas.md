@@ -72,7 +72,3 @@ Para salir de tus deudas, debes hacer sacrificios, ya que el estilo de vida que 
 Lo primero es enfocarse en el plan de ahorro y con lo ahorrado, pagar las deudas financieras. Según los más entendidos, para pagar tus deudas, deberías ahorrar entre el 10% y el 20% de tus ingresos totales. Aquí debes tener en cuenta todos los requisitos que existieron al momento de adquirir esa deuda. Si existe una rebaja de la deuda por pagar todo antes, entonces se puede aumentar el % de ahorro para lograr este objetivo. Y nunca caigas en la trampa de pagar lo mínimo de la deuda, porque es una trampa de los bancos para amarrarte por más tiempo a la deuda, hay que pagar en lo posible dos veces y medio el mínimo.
 
 Tu plan de ahorro es el comodín que tendrás para que puedas vivir sin deudas. Acá te dejo otro link que te puede servir para que veas cómo ahorrar: [¿Cómo jubilarse anticipadamente aplicando el método FIRE?](https://www.tiocripto.com/blog/como-jubilarse-anticipadamente)
-
-
-*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
-![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)

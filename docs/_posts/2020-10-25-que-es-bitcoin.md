@@ -78,8 +78,3 @@ Y listo, creo que esto es lo que necesitas saber sobre Bitcoin. Si quieres más 
 
 - [Qué es Bitcoin](https://www.buda.com/guias/que-es-bitcoin/)
 - [Bitcoin en 5 minutos](https://www.asociacionbitcoin.org/bitcoin-en-5-minutos/)
-
-
-
-*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
-![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)

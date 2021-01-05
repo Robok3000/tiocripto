@@ -22,7 +22,3 @@ Según [Buda](https://buda.com/registro?rf=4FZE2XUQD), una exchange de criptomon
 No es necesario que entiendas cómo funcionan, eso sería entrar en detalles complejos de programación y de criptografía. Lo importante, es que sepas que existen y que puedes acceder a ellas de forma muy fácil, operar con ellas y si te aburres, puedes venderlas y que te depositen su valor en tu Cuenta RUT (o mejor no, en algo más seguro)
 
 Y te preguntarás, para qué querría yo comprar criptomonedas. Bueno, siempre es bueno vivir la experiencia a que te la cuenten. Cuando traspasas ese oscuro velo que envuelve todo lo desconocido, sobre todo en las criptomonedas, te darás cuenta lo impresionante que es esta nueva tecnología.
-
-
-*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
-![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)

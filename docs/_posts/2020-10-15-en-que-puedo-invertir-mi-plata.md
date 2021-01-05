@@ -104,6 +104,3 @@ Existen empresas que se dedican a esto, como si fueran un banco pero con buenas 
 Espero que esta guía te sea de ayuda. Como siempre lo recalco antes de invertir: estudia lo que estás a punto de hacer, compara, busca opciones, pregúntale a los expertos, a tu abuelito, convérsalo con tu almohada. Tu plata es sagrada y gastaste mucho tiempo en adquirirla, no la pierdas apostando a lo loco. Si lo haces conscientemente, podrías tener un nuevo ingreso que te permita estar más tranquilo a fin de mes. Que rico no, llegar a fin de mes y tener saldo positivo!.
 
 ![Van Damme Bailando](https://i.pinimg.com/originals/1e/66/42/1e66428dfe49b500df8567a9341724dd.gif)
-
-*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
-![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)

@@ -31,6 +31,3 @@ Si un año aportas $1.000.000, el Estado suma $150.000 a tu cuenta de APV en ago
 En el caso que elijas el régimen B, el Estado te rebajará en impuestos un proporcional al monto ahorrado. Esto quiere decir que te podría llegar ese descuento en la devolución de impuestos y así, darte el lujo de quemar toda esa plata o lo que puede ser mejor, re-invertirla en algo como ¿Bitcoin? / ¿Fondos Mutuos? / ¿Un nuevo cepillo de dientes?
 
 ![Danny](https://cdn.eldeforma.com/wp-content/uploads/2020/08/giphy.gif)
-
-*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
-![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)

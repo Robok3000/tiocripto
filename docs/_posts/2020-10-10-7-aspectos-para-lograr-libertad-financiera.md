@@ -91,7 +91,3 @@ Lo más importante es que cuanto antes comiences con este plan para conseguir tu
 Como digo, tu yo del futuro te lo va a agradecer.
 
 {% include elements/video.html id="agsTBnU8plU" %}
-
-
-*Copia el Url de este post y pégalo en tu red social preferida. Así me ayudarás a difundir este sitio y de paso educarás financieramente a otros. Así de simple es ayudar.*
-![gracias](https://media2.giphy.com/media/fxI1G5PNC5esyNlIUs/giphy.gif)
