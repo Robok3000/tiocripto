@@ -7,29 +7,13 @@
   <meta name="description" content="Finanzas explicadas con 🤓 memes y manzanas 🍎">
   <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 
-  <!-- HTML Meta Tags -->
-<title>Tío Cripto</title>
-<meta name="description" content="Finanzas explicadas con 🤓 memes y manzanas 🍎">
-
-<!-- Google / Search Engine Tags -->
-<meta itemprop="name" content="Tío Cripto">
-<meta itemprop="description" content="Finanzas explicadas con 🤓 memes y manzanas 🍎">
-<meta itemprop="image" content="/assets/portada.png">
-
-<!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://www.tiocripto.com">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Tío Cripto">
-<meta property="og:description" content="Finanzas explicadas con 🤓 memes y manzanas 🍎">
-<meta property="og:image" content="/assets/portada.png">
-
-<!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Tío Cripto">
-<meta name="twitter:description" content="Finanzas explicadas con 🤓 memes y manzanas 🍎">
-<meta name="twitter:image" content="/assets/portada.png">
-
-<!-- Meta Tags Generated via http://heymeta.com -->
+  {% if site.plugins_dir contains 'jekyll-seo-tag' %}
+        {% include head-seo.html %}
+    {% else %}
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.name | escape }}{% endif %}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
+    {% endif %}
 
 
   <!-- Font Awesome CDN -->
