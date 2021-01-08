@@ -67,7 +67,7 @@ Usando Bitcoin obtienes los siguientes poderes:
 
 Existen muchas formas, pero te enseñaré la más fácil y segura. Si quieres experimentar con Bitcoin, te recomiendo que lo hagas con montos pequeños.
 
-- Paso 1: Regístrate en [Buda](https://buda.com/registro?rf=4FZE2XUQD)
+- Paso 1: Regístrate en [Buda](https://buda.com/registro?rf=4FZE2XUQD) - (este es mi código de referidos)
 - Paso 2: Agrega tu información bancaria para que puedas abonar dinero a la cuenta de Buda y así comprar Bitcoin. También sirve para cuando vendes bitcoin y lo quieres transformar en pesos chilenos o en tu moneda local.
 - Paso 3: Compra tus primeros Bitcoins. Una vez que creaste tu cuenta, tienes que abonar dinero haciendo una transferencia electrónica. Ese valor aparecerá en tu cuenta y podrás comprar tus primeros BTC. Si los quieres vender, debes ir a la sección vender y listo. Alguien te comprará esos BTC y se te abonará ese valor en tu cuenta de Buda. Si quieres retirar este dinero, sólo debes solicitar que te envien ese valor a tu cuenta bancaria.
 
