@@ -3,6 +3,7 @@ title: ¿Qué es Blockchain?
 tags: [Finanzas, tecnología, criptomonedas]
 style: fill
 color: warning
+image: https://imgur.com/I7659YN.png
 description: ¿Escuchaste sobre Blockchain y no sabes qué es? Bueno, aquí te lo explicamos en simple.
 ---
 

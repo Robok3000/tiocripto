@@ -3,6 +3,7 @@ title: ¿Qué es la Educación Financiera?
 tags: [Definición, Educacion Financiera]
 style: border
 color: primary
+image: https://imgur.com/SEtI0tJ.png
 description: Una rápida introducción sobre Educación Financiera.
 ---
 

@@ -3,6 +3,7 @@ title: ¿Cómo puedo reducir mis gastos?
 tags: [Finanzas, consejos]
 style: fill
 color: danger
+image: https://imgur.com/AGNMbWt.png
 description: Acá van 7 consejos para reducir tus gastos y llegar con plata a fin de mes.
 ---
 

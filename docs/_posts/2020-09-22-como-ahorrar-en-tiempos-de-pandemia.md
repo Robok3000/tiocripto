@@ -3,6 +3,7 @@ title: ¿Cómo puedo ahorrar en esta pandemia?
 tags: [Finanzas, Protips, Libertad Financiera]
 style: fill
 color: secondary
+image: https://imgur.com/oBXjqGa.jpeg
 description: Aquí van algunos tips para ahorrar en tiempos de crisis. Made in Vice.
 ---
 

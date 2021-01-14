@@ -3,6 +3,7 @@ title: ¿Cómo jubilarse anticipadamente aplicando el método FIRE?
 tags: [Finanzas, Tips, Jubilación]
 style: fill
 color: secondary
+image: https://imgur.com/OTUe7hO.png
 description: Te quieres jubilar antes de los 40? Aquí te explicamos cómo hacerlo.
 ---
 

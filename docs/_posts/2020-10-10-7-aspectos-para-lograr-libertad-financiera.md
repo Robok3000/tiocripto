@@ -3,6 +3,7 @@ title: 7 aspectos que debes considerar para lograr tu libertad financiera
 tags: [Finanzas, Finanzas Personales, Libertad Financiera]
 style: fill
 color: primary
+image: https://imgur.com/X9Su4Y8.jpg
 description: Aquí van algunos tips para ahorrar en tiempos de crisis. Made in Vice.
 ---
 
