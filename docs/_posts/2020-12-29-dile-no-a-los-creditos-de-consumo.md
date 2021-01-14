@@ -3,6 +3,7 @@ title: ¿Por qué es mala idea pedir un crédito de consumo?
 tags: [Finanzas, Finanzas Personales, Libertad Financiera]
 style: fill
 color: info
+image: https://imgur.com/kkZlUfI.png
 description: Aquí te explicamos todos los contra de pedir un crédito de consumo.
 ---
 

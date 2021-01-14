@@ -3,6 +3,7 @@ title: ¿En qué puedo invertir mi plata?
 tags: [Finanzas, Finanzas Personales, Libertad Financiera]
 style: fill
 color: danger
+image: https://imgur.com/RZmAbPm.jpg
 description: Acá te van 8 opciones para que puedas invertir tu plata de forma segura
 ---
 
