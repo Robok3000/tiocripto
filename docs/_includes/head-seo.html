@@ -1,23 +1,26 @@
-<!-- HTML Meta Tags -->
-<title>Tio Cripto - Educación Financiera para todxs</title>
-<meta name="description" content="Finanzas explicadas con 🤓 memes y manzanas 🍎">
+<title>{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}</title>
+<meta name="description" content="{{ site.description }}">
 
-<!-- Google / Search Engine Tags -->
-<meta itemprop="name" content="Tio Cripto - Educación Financiera para todxs">
-<meta itemprop="description" content="Finanzas explicadas con 🤓 memes y manzanas 🍎">
-<meta itemprop="image" content="www.tiocripto.com/assets/portada.png">
+<meta itemprop="name" content="{{ site.name }}">
+<meta itemprop="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
+<meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
-<!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://www.tiocripto.com">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Tio Cripto - Educación Financiera para todxs">
-<meta property="og:description" content="Finanzas explicadas con 🤓 memes y manzanas 🍎">
-<meta property="og:image" content="">
+<meta property="og:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
-<!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Tio Cripto - Educación Financiera para todxs">
-<meta name="twitter:description" content="Finanzas explicadas con 🤓 memes y manzanas 🍎">
-<meta name="twitter:image" content="">
+<meta name="twitter:url" content="{{ page.url | absolute_url }}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}">
+<meta name="twitter:site" content="{{ site.title }}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
+{% if site.twitter_username %}
+  <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+{% endif %}
+<meta property="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
+
 
 <!-- Meta Tags Generated via http://heymeta.com -->
