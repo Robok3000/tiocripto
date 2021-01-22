@@ -7,7 +7,7 @@ color: false
 description: Descubre qué son las Criptomonedas y el dinero digital.
 ---
 
-Source: [Buda.com](https://soporte.buda.com/es/articles/1005280-que-son-las-criptomonedas)
+Source: [Wikipedia](https://es.wikipedia.org/wiki/Criptomoneda)
 
 ![portada](https://imgur.com/DUzVHci.jpg)
 
@@ -18,11 +18,12 @@ Quizás escuchaste por ahí sobre [Bitcoin](https://www.tiocripto.com/blog/que-e
 
 Si quisiéramos definir lo que es una criptomoneda o las criptodivisas, entonces diríamos que es una **moneda digital** diseñada para funcionar como medio de intercambio. Utiliza la criptografía para asegurar y verificar transacciones, así como para controlar la creación de nuevas unidades de una criptomoneda particular. Esencialmente, las criptomonedas son entradas limitadas en una base de datos que nadie puede cambiar a menos que se cumplan condiciones específicas. Existen miles de criptomonedas, la más popular es **Bitcoin**.
 
-![Bitcoin](https://i.pinimg.com/originals/32/4b/99/324b99bf03869e91fc6807e854d7e616.gif)
 
 Según [Buda](https://buda.com/registro?rf=4FZE2XUQD), una exchange de criptomonedas que opera en Latinoamérica, la definición corta de **Bitcoin** es: "*Bitcoin es una “criptomoneda”, o sea, una forma de dinero digital o electrónico cuyo principal valor es que no requiere de un administrador central para existir, como un Banco Central o una empresa, porque fue construido de tal forma en que son miles de personas las que contribuyen colaborativamente, a través de sus computadores, para mantener la red andando 24/7, los 365 días del año.*
 
 *Bitcoin depende de la criptografía para existir, y la criptografía es la técnica de cifrar o esconder información para resguardarla de ser leída o manipulada por las personas incorrectas. En el caso de Bitcoin la criptografía permite, entre otras cosas, que sólo el dueño de los bitcoins pueda transferirlos.*"
+
+![Bitcoin](https://i.pinimg.com/originals/32/4b/99/324b99bf03869e91fc6807e854d7e616.gif)
 
 Según Jan Lansky, investigador y experto en criptomonedas, las define como como un sistema que cumple con las siguientes 6 condiciones:
 
