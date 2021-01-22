@@ -14,7 +14,7 @@ Source: [Wikipedia](https://es.wikipedia.org/wiki/Criptomoneda)
 
 Quizás escuchaste por ahí sobre [Bitcoin](https://www.tiocripto.com/blog/que-es-bitcoin) o alguien te habló de Blockchain, pero lo que oíste era tan anarquista que preferiste pasar de largo. Y es legítimo, porque *¿quién confiaría en una moneda que no tiene dueño, que tampoco tiene fronteras, que es completamente libre y lo mejor, no necesita un banco para operar?*. Bitcoin es dinero digital que no discrimina, cualquier persona de este mundo puede acceder a ella y que además, está resguardado en ciento de miles de computadores que crean unas de las redes más seguras existentes en el mundo mundial.
 
-[Qué son las criptomonedas](https://cdn.memegenerator.es/imagenes/memes/full/28/29/28296037.jpg)
+![Qué son las criptomonedas](https://cdn.memegenerator.es/imagenes/memes/full/28/29/28296037.jpg)
 
 Si quisiéramos definir lo que es una criptomoneda o las criptodivisas, entonces diríamos que es una **moneda digital** diseñada para funcionar como medio de intercambio. Utiliza la criptografía para asegurar y verificar transacciones, así como para controlar la creación de nuevas unidades de una criptomoneda particular. Esencialmente, las criptomonedas son entradas limitadas en una base de datos que nadie puede cambiar a menos que se cumplan condiciones específicas. Existen miles de criptomonedas, la más popular es **Bitcoin**.
 
